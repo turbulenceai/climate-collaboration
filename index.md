@@ -19,7 +19,7 @@ It is a multi-institution effort between academia, national laboratories and the
 ![Branching](https://github.com/turbulenceai/climate-consortium/blob/master/assets/img/DKI.jpeg)
 
 
-<!-- 
+
          This is a multiline comment and it can
          span through as many as lines you like.
 <p> <img src="https://github.com/turbulenceai/climate-consortium/blob/master/assets/img/UMass.png" width="250" height="100"></p>
@@ -34,7 +34,7 @@ It is a multi-institution effort between academia, national laboratories and the
     <img src="https://github.com/turbulenceai/climate-consortium/blob/master/assets/img/UMass.png" alt="Forest" style="width:25%">
   </div>
 </div>
-      -->
+
 ## Members of the project
 
 <html>
