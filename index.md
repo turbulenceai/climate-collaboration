@@ -7,6 +7,8 @@ It is a multi-institution effort between academia, national laboratories and the
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
+![Octocat](https://github.com/turbulenceai/climate-collaboration/blob/master/assets/img/LANL.png)
+
 # Background of the project
 
 
