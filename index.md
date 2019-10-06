@@ -5,6 +5,8 @@ The Climate Collaboration started as an exploratory project between friends turn
 It is a multi-institution effort between academia, national laboratories and the industry.
 
 
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
+
 # Background of the project
 
 
