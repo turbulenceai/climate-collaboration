@@ -1,6 +1,6 @@
-# The Climate Consortium
+# The Climate Collaboration
 
-The Climate Consortium started as an exploratory project between friends turned collaborators. The idea was to use state-of-the-art machine learning techniques to problems of interest in climate science.
+The Climate Collaboration started as an exploratory project between friends turned collaborators. The idea was to use state-of-the-art machine learning techniques to problems of interest in climate science.
 
 It is a multi-institution effort between academia, national laboratories and the industry.
 
