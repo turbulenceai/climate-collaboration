@@ -12,10 +12,6 @@ It is a multi-institution effort between academia, national laboratories and the
 
 # Participating Institutions
 
-
-
-
-
 ![Branching](https://github.com/turbulenceai/climate-consortium/blob/master/assets/img/UMass.png)
 ![Branching](https://github.com/turbulenceai/climate-consortium/blob/master/assets/img/LANL.png)
 ![Branching](https://github.com/turbulenceai/climate-consortium/blob/master/assets/img/NVIDIA.png)
@@ -41,8 +37,33 @@ It is a multi-institution effort between academia, national laboratories and the
       -->
 ## Members of the project
 
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+img {
+  border-radius: 50%;
+}
+</style>
+</head>
+<body>
 
+<h2>Rounded Images</h2>
 
+<img src="https://github.com/turbulenceai/climate-consortium/blob/master/assets/img/LANL.png" alt="Avatar" style="width:20px">
+
+</body>
+</html> 
+
+<div class="img-circular"></div>
+
+.img-circular{
+ width: 200px;
+ height: 200px;
+ background-image: url('http://strawberry-fest.org/wp-content/uploads/2012/01/Coca-Cola-logo.jpg');
+ background-size: cover;
+ display: block;
+}
 
 # Publications
 
