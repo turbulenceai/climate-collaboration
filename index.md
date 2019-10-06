@@ -65,6 +65,8 @@ img {
  display: block;
 }
 
+<img class="img-circle" src="https://github.com/turbulenceai/climate-consortium/blob/master/assets/img/LANL.png">
+
 # Publications
 
 
