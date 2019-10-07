@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # The Turbulence Collaboration
 
 The Turbulence Collaboration started as an exploratory project between graduate school friends that turned into a potentially important research project. Turbulence is a key driver in climate physics, internal combustion engines, geophysical flows etc.,and getting turbulence right is really key to developing truly predictive modeling frameworks. It is for this reason, Dr. Richard Feynman called turbulence as the "most important unsolved problem in classical physics".
@@ -5,16 +9,6 @@ The Turbulence Collaboration started as an exploratory project between graduate 
 The primary goal behind this collaborative effort is to develop and apply advanced machine learning algorithms to improve our understanding of the physics of turbulence. These learned algorithms can be then used to improve existing model fidelity.
 
 This is a multi-institution effort between academia, national laboratories and the industry and some of the problems we are currently looking at include improving popular two-equation turbulence models (under simplified assumptions), geophysical turbulence as well as building a pathway to create better climate sub-models.
-
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-![Octocat](https://github.com/turbulenceai/climate-collaboration/blob/master/assets/img/LANL.png)
-
-# Background of the project
-
-
-@Gavin: Please help provide some write-up about issues of the project. Very high-level overview.
 
 # Participating Institutions
 
