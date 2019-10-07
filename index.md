@@ -17,7 +17,7 @@ This is a multi-institution effort between academia, national laboratories and t
 ![Branching](./assets/img/DKI.jpeg)
 
 
-<img src="./assets/img/UMass.png" alt="UMass" style="width:50px;height:60px">
+<img src="./assets/img/UMass.png" alt="UMass" width="500" height="600">
 
 
 
