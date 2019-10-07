@@ -17,12 +17,12 @@ This is a multi-institution effort between academia, national laboratories and t
 ![Branching](./assets/img/DKI.jpeg)
 
 
-<img src="./assets/img/UMass.png" alt="UMass" width="500" height="600">
-
-
-
-         This is a multiline comment and it can
-         span through as many as lines you like.
+<img src="./assets/img/UMass.png" alt="UMass" width="200" height="80">
+<img src="./assets/img/LANL.png" alt="UMass" width="200" height="80">
+<img src="./assets/img/NVIDIA.png" alt="UMass" width="200" height="80">
+<img src="./assets/img/UToronto.png" alt="UMass" width="200" height="80">
+<img src="./assets/img/DKI.jpeg" alt="UMass" width="200" height="80">
+         
 
 ## Members of the project
 
