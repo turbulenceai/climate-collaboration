@@ -17,6 +17,7 @@ This is a multi-institution effort between academia, national laboratories and t
 ![Branching](./assets/img/DKI.jpeg)
 
 
+<img src="./assets/img/UMass.png" alt="UMass">
 
          This is a multiline comment and it can
          span through as many as lines you like.
