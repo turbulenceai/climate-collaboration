@@ -1,6 +1,4 @@
----
-layout: default
----
+
 
 # The Turbulence Collaboration
 
