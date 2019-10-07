@@ -10,11 +10,6 @@ This is a multi-institution effort between academia, national laboratories and t
 
 # Participating Institutions
 
-![Branching](./assets/img/UMass.png)
-![Branching](./assets/img/LANL.png)
-![Branching](./assets/img/NVIDIA.png)
-![Branching](./assets/img/UToronto.png)
-![Branching](./assets/img/DKI.jpeg)
 
 
 <img src="./assets/img/UMass.png" alt="UMass" width="200" height="80">
