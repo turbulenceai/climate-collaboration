@@ -19,8 +19,9 @@ This is a multi-institution effort between academia, national laboratories and t
          
 
 ## Members of the project
-
+<img src="./assets/img/DKI.jpeg" alt="UMass" width="200" height="80">
 Gavin Portwood, co-founder, XCP-4 Los Alamos National Laboratory, Los Alamos, NM
+<img src="./assets/img/DKI.jpeg" alt="UMass" width="200" height="80">
 Peetak Mitra, co-founder, CCS-2 (GRA), Los Alamos National Laboratory, Los Alamos, NM
 Mateus Dias Ribiero
 
@@ -33,10 +34,3 @@ Mateus Dias Ribiero
 
 # How to connect
 
-
-<img class="circular--square" alt="UMass" width="200" height="80">
-.circular--square {
-border-radius: 50%;
-}
-
-<img src="./assets/img/DKI.jpeg" alt="UMass" width="200" height="80">
