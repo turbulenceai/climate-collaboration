@@ -18,8 +18,8 @@ This is a multi-institution effort between academia, national laboratories and t
 
 
 <img src="./assets/img/UMass.png" alt="UMass" width="200" height="80">
-<img src="./assets/img/LANL.png" alt="UMass" width="200" height="80">
-<img src="./assets/img/NVIDIA.png" alt="UMass" width="200" height="80">
+<img src="./assets/img/LANL.png" alt="UMass" width="200" height="100">
+<img src="./assets/img/NVIDIA.png" alt="UMass" width="200" height="120">
 <img src="./assets/img/UToronto.png" alt="UMass" width="200" height="80">
 <img src="./assets/img/DKI.jpeg" alt="UMass" width="200" height="80">
          
