@@ -32,8 +32,11 @@ Mateus Dias Ribiero
 
 
 # How to connect
-img2 {
-  border-radius: 50%;
+
+
+<img class="circular--square" alt="UMass" width="200" height="80">
+.circular--square {
+border-radius: 50%;
 }
 
-<img2 src="./assets/img/DKI.jpeg" alt="UMass" width="200" height="80">
+<img src="./assets/img/DKI.jpeg" alt="UMass" width="200" height="80">
