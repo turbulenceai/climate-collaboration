@@ -12,11 +12,11 @@ This is a multi-institution effort between academia, national laboratories and t
 
 # Participating Institutions
 
-![Branching](https://github.com/turbulenceai/climate-collaboration/blob/master/assets/img/UMass.png)
-![Branching](https://github.com/turbulenceai/climate-collaboration/blob/master/assets/img/LANL.png)
-![Branching](https://github.com/turbulenceai/climate-collaboration/blob/master/assets/img/NVIDIA.png)
-![Branching](https://github.com/turbulenceai/climate-collaboration/blob/master/assets/img/UToronto.png)
-![Branching](https://github.com/turbulenceai/climate-collaboration/blob/master/assets/img/DKI.jpeg)
+![Branching](./assets/img/UMass.png)
+![Branching](./assets/img/LANL.png)
+![Branching](./assets/img/NVIDIA.png)
+![Branching](./assets/img/UToronto.png)
+![Branching](./assets/img/DKI.jpeg)
 
 
 
